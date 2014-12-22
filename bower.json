@@ -1,0 +1,20 @@
+{
+  "name": "custom-error",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ileri/custom-error",
+  "authors": [
+    "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
+  ],
+  "main": "custom-error.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
