@@ -1,19 +1,19 @@
 {
   "name": "custom-error",
-  "version": "0.1.0",
   "description": "custom-error\r ============",
-  "main": "custom-error.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.1.0",
+  "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ileri/custom-error/issues"
   },
+  "homepage": "https://github.com/ileri/custom-error",
+  "license": "GPL-3.0",
+  "main": "custom-error.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/custom-error.git"
   },
-  "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/ileri/custom-error/issues"
-  },
-  "homepage": "https://github.com/ileri/custom-error"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
