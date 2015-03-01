@@ -1,2 +1,2 @@
-custom-error
-============
+# custom-error
+> An extensible CustomError class

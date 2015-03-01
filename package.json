@@ -1,6 +1,6 @@
 {
   "name": "custom-error",
-  "description": "custom-error\r ============",
+  "description": "An extensible CustomError class",
   "version": "0.1.0",
   "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
   "bugs": {
