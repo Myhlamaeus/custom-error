@@ -1,11 +1,7 @@
-const descVal = function(val) {
-        return Object.create({}, {
-            "value": val,
-            "configurable": true
-        }, desc);
-    },
-    stackSeparator = `\n${" ".repeat(4)}at `,
-    CustomError = function CustomError(name, message, trace) {
+const stackSeparator = `\n${" ".repeat(4)}at `;
+
+export default class {
+    constructor(name, message, trace) {
         var stack;
 
         if(typeof(trace) === "undefined") {
@@ -25,12 +21,9 @@ const descVal = function(val) {
             "message": descVal(message),
             "stack": descVal(stack)
         });
-    };
+    }
 
-Object.defineProperties(CustomError.prototype, {
-    "toString": descVal(function() {
+    toString() {
         return `${this.name}: ${this.message}`;
-    })
-});
-
-export default CustomError;
+    }
+}
