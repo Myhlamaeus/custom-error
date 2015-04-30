@@ -1,2 +1,2 @@
-# custom-error
+# custom-error [![Code Climate](https://codeclimate.com/github/ileri/custom-error/badges/gpa.svg)](https://codeclimate.com/github/ileri/custom-error) [![Build Status](https://travis-ci.org/ileri/custom-error.svg?branch=master)](https://travis-ci.org/ileri/custom-error) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 > An extensible CustomError class
