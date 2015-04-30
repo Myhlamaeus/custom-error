@@ -20,7 +20,7 @@
     "time-grunt": "^1.0.0"
   },
   "homepage": "https://github.com/ileri/custom-error",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "main": "custom-error.js",
   "repository": {
     "type": "git",
