@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://github.com/ileri/custom-error",
   "authors": [
-    "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
+    "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
   ],
   "main": "custom-error.js",
   "moduleType": [
